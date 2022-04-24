@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/biocad_backend/biocad_backend.iml" filepath="$PROJECT_DIR$/biocad_backend/biocad_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biocad_frontend/biocad_frontend.iml" filepath="$PROJECT_DIR$/biocad_frontend/biocad_frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/biocad_test1.iml" filepath="$PROJECT_DIR$/.idea/biocad_test1.iml" />
+    </modules>
+  </component>
+</project>
